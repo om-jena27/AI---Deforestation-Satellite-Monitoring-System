@@ -1,0 +1,3 @@
+arXiv API Terms and License Notice:
+Please check the terms at https://info.arxiv.org/help/api/index.html and always verify the license of the papers retrieved for any restrictions or terms of use.
+Timestamp: 2026-10-07T09:01:40+05:30

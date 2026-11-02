@@ -1,0 +1,40 @@
+{
+  "U-Net (ForestUNet)": {
+    "Accuracy": 0.9883,
+    "Precision": 0.9772,
+    "Recall": 0.9638,
+    "F1_Score": 0.9704,
+    "Dice": 0.9704,
+    "IoU": 0.9425,
+    "Status": "Evaluated"
+  },
+  "U-Net (with Augmentation)": "Not evaluated",
+  "Siamese ChangeNet": {
+    "Accuracy": 0.9861,
+    "Precision": 0.9358,
+    "Recall": 0.9987,
+    "F1_Score": 0.9662,
+    "Dice": 0.9662,
+    "IoU": 0.9347,
+    "Status": "Evaluated"
+  },
+  "Random Forest": {
+    "Accuracy": 1.0,
+    "Precision": 1.0,
+    "Recall": 1.0,
+    "F1_Score": 1.0,
+    "Dice": 1.0,
+    "IoU": 1.0,
+    "Status": "Evaluated"
+  },
+  "Baseline NDVI Thresholding": {
+    "Accuracy": 1.0,
+    "Precision": 1.0,
+    "Recall": 1.0,
+    "F1_Score": 1.0,
+    "Dice": 1.0,
+    "IoU": 1.0,
+    "Status": "Evaluated"
+  },
+  "DeepLabV3+": "Not evaluated"
+}

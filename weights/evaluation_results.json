@@ -1,0 +1,15 @@
+{
+  "accuracy": 0.9994298299148563,
+  "precision": 0.9999999999974778,
+  "recall": 0.9971805693162511,
+  "f1": 0.9985877945552913,
+  "dice": 0.9985877945552913,
+  "iou": 0.9971805693162511,
+  "tp": 396477,
+  "fp": 0,
+  "fn": 1121,
+  "tn": 1568482,
+  "num_test_scenes": 30,
+  "total_pixels_evaluated": 1966080,
+  "checkpoint_evaluated": "unet_deforestation.pth"
+}

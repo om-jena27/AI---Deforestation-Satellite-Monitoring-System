@@ -1,0 +1,19 @@
+{
+  "checkpoint": "test_unet_real.pth",
+  "training_domain": "Real-World Satellite Imagery",
+  "in_channels": 3,
+  "seed": 42,
+  "n_train": 1,
+  "n_val": 1,
+  "n_test": 1,
+  "val_best_iou": 0.0,
+  "test_iou": 0.0,
+  "test_dice": 0.0,
+  "test_precision": 0.0,
+  "test_recall": 0.0,
+  "test_accuracy": 0.928,
+  "tp": 0,
+  "fp": 4720,
+  "fn": 0,
+  "tn": 60816
+}
